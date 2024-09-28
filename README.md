@@ -7,4 +7,4 @@ NIM: 2409116088
 
 ![image](https://github.com/user-attachments/assets/55b7a44e-5f5c-47c2-b05c-98080f6f0e3f)
 
-![image](https://github.com/user-attachments/assets/59b6cd53-6dad-4853-a721-0a9717441c8e)
+![image](https://github.com/user-attachments/assets/a5cb6b1d-7b1a-4d85-baa2-fdfbe9a62673)
