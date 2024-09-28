@@ -3,6 +3,23 @@ NIM: 2409116088
 
 ![image](https://github.com/user-attachments/assets/e79fbd49-018a-4424-b564-efa32e2f6b40)
 
+    <style>
+        .object-fit {
+            display: flex;
+            justify-content: space-between; /* Mengatur jarak antar gambar */
+            gap: 10px; /* Memberikan jarak antar gambar */
+        }
+
+        .object-fit img {
+            width: 30%; /* Mengatur lebar gambar agar tidak terlalu besar */
+            height: auto; /* Mempertahankan rasio aspek gambar */
+        }
+
+        p {
+            text-align: justify;
+        }
+    </style>
+
 <div class="object-fit">
   
 ![image](https://github.com/user-attachments/assets/613cef9c-03ea-4f69-b87a-2ac51729cc39)
