@@ -16,7 +16,7 @@ while True:
     nama = str(input("Masukkan Nama Anda: "))
     nim = str(input("Masukkan 3 Digit Akhir NIM Anda: "))
     if nama == "Aris" and nim == "088":
-        print("Selamat datang, ",nama," Dengan NIM 2409116"+nim)
+        print("Selamat datang, ",nama,"Candra Muzaffar"," Dengan NIM 2409116"+nim)
         break  # keluar jika berhasil
     else:
         print("Nama atau NIM anda tidak dikenal")
